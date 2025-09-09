@@ -167,6 +167,3 @@ As detailed by the diagram:
 * A problem can be associated to many topics and a topic can be associated to many problems.
 
 
-## **Class diagram:**
-
-![Class Diagram](classdiagram.png)
