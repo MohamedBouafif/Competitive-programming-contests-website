@@ -3,7 +3,7 @@
 
 ## **Project Overview**
 
-We are building a Codeforces-like platform to host competitive programming competitions at our university. The platform will include:
+We are building a Codeforces-like backend to manage  competitive programming competitions at our university. The platform will include:
 
 - A **home page** with active competitions and recent problems.
 - A **problem set** where users can view and solve problems.
