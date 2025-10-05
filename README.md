@@ -63,11 +63,11 @@ Competitors can post clarifications; administrators respond to clarify doubts.
 
 ### Clarification Demo
 Demonstrates how competitors can post clarifications and how administrators manage and respond to them.  
-[🎥 Watch the video](clarification%20demo.mp4)
+[🎥 Watch the video](clarification%20demo%201.mp4)
 
 ### Problem Submission Demo
 Shows the full process of submitting a solution, automatic evaluation, and viewing submission results.  
-[🎥 Watch the video](problem%20submission%20demo.mp4)
+[🎥 Watch the video](problem%20submission%20demo%202.mp4)
 ## Functional Requirements
 
 This database will support:
