@@ -11,7 +11,9 @@ We are building a Codeforces-like backend to manage  competitive programming com
 - A **submission system** to evaluate user code and provide results.
 
 
-## **Entity relationship diagram:**
+## **Project screen shots**
+
+
 
 ## Functional Requirements
 
