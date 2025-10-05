@@ -11,8 +11,51 @@ We are building a Codeforces-like backend to manage  competitive programming com
 - A **submission system** to evaluate user code and provide results.
 
 
-## **Project screen shots**
+## **Project Screenshots**
 
+### Home Page
+Displays active competitions, featured problems, and recent announcements.
+![Home Page](home%20page.png)
+
+### Login & Sign In
+User authentication interface for logging into the platform.
+![Login & Sign In](login%20&%20sign%20in.png)
+
+### Account Settings
+Page where users can update personal information and manage their profile.
+![Account Settings](account%20settings.png)
+
+### Competitions
+Shows ongoing and upcoming programming competitions.
+![Competitions](competitions.png)
+
+### Problem List
+Lists all available problems that users can solve or attempt.
+![Problem List](problem%20list.png)
+
+### Problem Statement
+Displays the problem description, constraints, and input/output formats.
+![Problem Statement](problem%20statement.png)
+
+### Problem Example Details
+Shows examples with detailed explanations to help users understand the problem.
+![Problem Example Details](problem%20exemple%20details.png)
+
+### Problem Status
+Overview of submission statuses for problems (e.g., Accepted, Wrong Answer).
+![Problem Status](problem%20status.png)
+
+### Problem Status Details
+Detailed view of a user’s submission results and execution feedback.
+![Problem Status Details](problem%20status%20details.png)
+
+### Problem Submission
+Page where users upload or paste their code solutions for judging.
+![Problem Submission](problem%20submission.png)
+
+### Clarifications and Answering It
+Competitors can post clarifications; administrators respond to clarify doubts.
+![Clarifications and Answering It](clarifications%20and%20answering%20it.png)
 
 
 ## Functional Requirements
