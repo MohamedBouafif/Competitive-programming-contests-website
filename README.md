@@ -57,7 +57,17 @@ Page where users upload or paste their code solutions for judging.
 Competitors can post clarifications; administrators respond to clarify doubts.
 ![Clarifications and Answering It](clarifications%20and%20answering%20it.png)
 
+---
 
+## **Video Demo**
+
+### Clarification Demo
+Demonstrates how competitors can post clarifications and how administrators manage and respond to them.  
+[🎥 Watch the video](clarification%20demo.mp4)
+
+### Problem Submission Demo
+Shows the full process of submitting a solution, automatic evaluation, and viewing submission results.  
+[🎥 Watch the video](problem%20submission%20demo.mp4)
 ## Functional Requirements
 
 This database will support:
